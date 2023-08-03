@@ -15,6 +15,4 @@ Senaryo : Ürün Yorumu Beğen
 
 Test Status : ✅
 
-
-
-![Allure ekran görüntüsü](https://github.com/akcankaan/Hepsiburada-Test-Product-Comment-Like/assets/63432799/47020de2-2d7d-46ec-92ec-a91a9868b23a)
+![Allure ekran görüntüsü](https://github.com/akcankaan/Hepsiburada-Test-Product-Comment-Like/assets/63432799/3aaeaf69-77d3-4e46-85a2-244c028f71ba)
