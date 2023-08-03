@@ -13,6 +13,8 @@ Senaryo : Ürün Yorumu Beğen
 
 •	Kullanıcı eğer yorumlar tab’ında hiç yorum gelmiyorsa herhangi bir işlem yapmaz.
 
+Test Status : ✅
+
 
 
 ![Allure ekran görüntüsü](https://github.com/akcankaan/Hepsiburada-Test-Product-Comment-Like/assets/63432799/47020de2-2d7d-46ec-92ec-a91a9868b23a)
